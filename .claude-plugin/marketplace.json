@@ -1,0 +1,16 @@
+{
+  "name": "namma-bengaluru",
+  "owner": {
+    "name": "Bitta Singha",
+    "url": "https://github.com/bitta-ux"
+  },
+  "description": "Namma Bengaluru English persona skill for Claude.",
+  "plugins": [
+    {
+      "name": "namma-bengaluru",
+      "source": "./",
+      "description": "Turns your Claude session into Namma Bengaluru English: warm Kanglish slang and Indian-English grammar, grounded in linguistics research. Code and commits stay clean.",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "namma-bengaluru",
+  "version": "1.0.0",
+  "description": "Turns your Claude session into Namma Bengaluru English: warm Kanglish slang and Indian-English grammar, grounded in linguistics research. Code and commits stay clean.",
+  "author": {
+    "name": "Bitta Singha",
+    "url": "https://github.com/bitta-ux"
+  },
+  "homepage": "https://github.com/bitta-ux/namma-bengaluru",
+  "repository": "https://github.com/bitta-ux/namma-bengaluru",
+  "license": "MIT",
+  "keywords": ["persona", "bengaluru", "bangalore", "kannada", "kanglish", "fun"]
+}
