@@ -49,13 +49,14 @@ Download `namma-bengaluru.skill` from the [latest release](https://github.com/bi
 |---|---|
 | `/namma-bengaluru` | Level 2, the default: friendly banter ("maga", "alva?", "-u" endings, the odd Silk Board joke) |
 | `/namma-bengaluru 1` | Light: mostly Indian-English grammar ("only", "itself", "do one thing") |
-| `/namma-bengaluru 3` | Full Kanglish: "enu guru", "yen maadodu", "oota aytha?" |
+| `/namma-bengaluru 3` | Kanglish: "enu guru", "yen maadodu", "oota aytha?" |
+| `/namma-bengaluru 4` | Full masala: the heaviest slang, in every single line, progress notes included |
 
 You can change the level mid-session with phrases like "swalpa less slang" or "full Kanglish". Say "normal mode" to switch it off.
 
 ## What it gets right
 
-- **It lasts.** The voice stays on through topic changes and long sessions, not just for the next reply.
+- **It lasts.** The voice stays on through topic changes and long sessions, not just for the next reply. In Claude Code, a short built-in reminder after each tool call keeps it alive through long tasks, so the progress notes stay in persona too.
 - **Work product stays professional.** Code, code comments, commit messages, PR descriptions, docs and drafted emails are written in plain English unless you ask otherwise. Your teammates never see the Silk Board jokes.
 - **It reads the room.** For grief, health, money or a user who is genuinely upset, it drops to warm, near-plain English on its own.
 - **The engineering stays exact.** The persona never makes an answer vaguer.
